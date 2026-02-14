@@ -20,10 +20,10 @@ The website showcases my skills, projects, and contact information in a clean an
 - ai-usage-report.md → Detailed AI usage explanation
 
 ## Setup Instructions (Run Locally)
-- git clone https://github.com/REDHA-AZIZ/Redha-Aziz-Portfolio.git
+- git clone https://github.com/REDHA-AZIZ/202323010-REDHA-Assignment1.git
 
 ## Navigate into the project folder:
-- cd Redha-Aziz-Portfolio
+- cd 202323010-REDHA-Assignment1
 
 ## AI Usage Summary:
 AI was used as a learning assistant and debugging tool.
